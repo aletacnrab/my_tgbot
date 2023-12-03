@@ -1,4 +1,4 @@
-# my_tgbot  
+# Echo Telegram Bot  
 #### This bot echoes back any text message it receives, providing a simple demonstration of handling messages using the __python-telegram-bot__ library.  
 ---
 1. __Import__ necessary modules from the python-telegram-bot library.
